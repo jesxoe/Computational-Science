@@ -1,3 +1,5 @@
 # Computational-Science
 Study of Computational-Science in Hana Academy Seoul
-April 2025
+\n April 2025
+\n written in python
+
